@@ -7,8 +7,7 @@ You can type any text, click a button, and hear it spoken out loud using the bro
 
 ## 🚀 Demo
 
-*(Add link if deployed, e.g. GitHub Pages)*  
-Live Demo: (text-to-speech.vercel.app)
+Live Demo: https://text-to-speech-converter-ruby.vercel.app
 
 ---
 ## ✨ Features
