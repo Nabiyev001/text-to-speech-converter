@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(0deg, rgb(96, 195, 34) 0%, rgb(77, 191, 228) 25%, rgb(133, 12, 132) 100%) !important;
+  height: 100vh;
+  background-repeat: no-repeat;
+}
+body textarea, body select {
+  background-color: transparent;
+  -webkit-backdrop-filter: blur(150px);
+          backdrop-filter: blur(150px);
+}
+body textarea {
+  box-shadow: 0 0 10px #fff;
+  border: 2px solid #1c92e0;
+  outline: none;
+  min-height: 100px;
+}
+body select {
+  border: 1px solid #000;
+}
+body button {
+  background-color: #eb4747;
+  border: none;
+}/*# sourceMappingURL=style.css.map */
